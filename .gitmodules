@@ -4,3 +4,6 @@
 [submodule "performance-samples"]
 	path = performance-samples
 	url = git@github.com:android/performance-samples.git
+[submodule ".github/work"]
+	path = .github/work
+	url = https://gitlab.com/github-cli.git
