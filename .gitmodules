@@ -1,3 +1,6 @@
 [submodule "BenchmarkNdkSample/benchmark/cpp/third_party/googlebenchmark"]
 	path = BenchmarkNdkSample/benchmark/cpp/third_party/googlebenchmark
 	url = https://github.com/google/benchmark.git
+[submodule "performance-samples"]
+	path = performance-samples
+	url = git@github.com:android/performance-samples.git
